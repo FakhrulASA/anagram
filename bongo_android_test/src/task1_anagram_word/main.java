@@ -1,4 +1,4 @@
-package bongo_android_test;
+package task1_anagram_word;
 
 
 public class main {
